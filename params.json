@@ -1,6 +1,6 @@
 {
   "name": "Spreo26",
   "tagline": "Portfolio",
-  "body": "# Projects\r\n\r\n",
+  "body": "#LANGUAGES AND TECHNOLOGIES\r\n\r\n\r\nProficient: Ruby, Rails, ActiveRecord, JavaScript, CoffeeScript, jQuery, AngularJS, AJAX, SQL, PostgreSQL, Git, GitHub, RSpec, HTML5, Haml, CSS3, Sass, MATLAB\r\n\r\nExposure: Python, D3.js, Google Analytics, Capybara, FactoryGirl, LabVIEW, C, C++, Java, Perl\r\n\r\n# Projects\r\n\r\n## Compose-pad | [live](http://compose-pad.herokuapp.com/) | [code](https://github.com/SPreo26/compose-pad) | 2015 - 2016\r\n\r\n- MIDI music note sequencer for musically inclined individuals to quickly and easily write, play and save their own tunes.\r\n- Utilizes Ruby on Rails, PostgreSQL, AngularJS, D3.JS, Bootstrap, Bootstrap UI (Angular module).\r\n- Incorporates MIDI.js library to play user songs.\r\n- Multiple song files can be open in tabs.\r\n\r\n## Acoustic Speech Recognition System | [live](https://drive.google.com/open?id=0Bxvz4oBLx9gZdUFpMEtySzZqQXc) 2011 - 2012\r\n\r\n- Noise cancelling algorithm optimizations for use with an intelligent speech dialog kiosk located in a high decibel venue.\r\n- Wrote MATLAB and Perl code to automate testing different parameters saving considerable time in research.\r\n- Improved speech recognition rate by 70%+ through engineering noise cancelling algorithm in MATLAB using linear algebra techniques on input data from an array of microphones.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
