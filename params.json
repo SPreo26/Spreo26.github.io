@@ -1,6 +1,6 @@
 {
   "name": "Spreo26",
   "tagline": "Portfolio",
-  "body": "# Projects\r\n\r\n",
+  "body": "# Projects\r\n\r\n## Compose-pad | [live](http://compose-pad.herokuapp.com/) | [code](https://github.com/SPreo26/compose-pad) | 2015 - 2016\r\n\r\n- A MIDI music note sequencer for musically inclined individuals to quickly and easily write, play and save their own tunes.\r\n- Utilizes Ruby on Rails, PostgreSQL, AngularJS, D3.JS, Bootstrap, Bootstrap UI (Angular module).\r\n- Incorporates MIDI.js library to play user songs.\r\n- Multiple song files can be open in tabs.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
